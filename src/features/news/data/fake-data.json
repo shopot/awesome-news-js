@@ -1,0 +1,162 @@
+{
+  "status": "ok",
+  "totalResults": 12,
+  "articles": [
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Emma Roth",
+      "title": "Mt. Gox: all the news on Bitcoin’s original biggest bankruptcy scandal",
+      "description": "One of the strangest stories in crypto still isn’t over. Mt. Gox went bankrupt in 2014 after losing track of more than 650,000 Bitcoins through theft or mismanagement and its CEO was arrested. But the story didn’t end there.",
+      "url": "https://www.theverge.com/2014/3/21/5533272/mt-gox-missing-bitcoins",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/cT46bayUXzTSLryuplguioQYo78=/0x0:560x372/1200x628/filters:focal(280x186:281x187)/cdn.vox-cdn.com/uploads/chorus_asset/file/10987061/mt-gox-hq.0.0.jpg",
+      "publishedAt": "2023-06-09T17:28:51Z",
+      "content": "Filed under:\r\nByJacob Kastrenakes, a deputy editor who oversees tech and news coverage. Since joining The Verge in 2012, hes published 5,000+ stories and is the founding editor of the creators desk. … [+17914 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Will Shanklin",
+      "title": "DOJ charges Russian nationals with laundering bitcoin in 2011 Mt. Gox hack",
+      "description": "The US Department of Justice announced today that it charged two Russian nationals for crimes related to the 2011 hacking of Mt. Gox, the now-defunct crypto exchange that was one of the world’s largest at the time. Alexey Bilyuchenko and Aleksandr Verner are …",
+      "url": "https://www.engadget.com/doj-charges-russian-nationals-with-laundering-bitcoin-in-2011-mt-gox-hack-184052373.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/7bRYHMiKYEn9M7nv8_ZwoQ--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/6946e120-06ee-11ee-bb69-ade65ccf4c1c.cf.jpg",
+      "publishedAt": "2023-06-09T18:40:52Z",
+      "content": "The US Department of Justice announced today that it charged two Russian nationals for crimes related to the 2011 hacking of Mt. Gox, the now-defunct crypto exchange that was one of the worlds larges… [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jessica Maddox",
+      "title": "The Hidden Dangers of the Decentralized Web",
+      "description": "From social networks to crypto, independently run servers are being touted as a solution to the internet’s problems. But they’re far from a magic bullet.",
+      "url": "https://www.wired.com/story/the-hidden-dangers-of-the-decentralized-web/",
+      "urlToImage": "https://media.wired.com/photos/6466a28c9ec11a2433532a66/191:100/w_1280,c_limit/Cons_Social.jpg",
+      "publishedAt": "2023-05-19T12:00:00Z",
+      "content": "When Elon Musk took over Twitter last year, many users migrated to the free and open-source platform Mastodon. Mastodon, like other decentralized social media, isnt owned by one of the major players … [+4331 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kevin Hurler",
+      "title": "Binance Halts Trading of American Dollars on Its U.S. Exchange",
+      "description": "Cryptocurrency exchange Binance’s U.S. arm has indefinitely paused deposits and withdrawals of American dollar deposits and withdrawals. The company announced it would be freezing these assets after the U.S. Securities and Exchange Commission filed a lawsuit …",
+      "url": "https://gizmodo.com/binance-crypto-sec-bitcoin-binance-us-1850522422",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/ad1425144dd44b6f30a7f559bc37a9f4.jpg",
+      "publishedAt": "2023-06-09T14:07:00Z",
+      "content": "Cryptocurrency exchange Binances U.S. arm has indefinitely paused deposits and withdrawals of American dollar deposits and withdrawals. The company announced it would be freezing these assets after t… [+2056 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Bitcoin surges 5.56% to $27171 - Reuters",
+      "description": "Bitcoin surges 5.56% to $27171  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYml0Y29pbi1zdXJnZXMtNTU2LTI3MTcxLTIwMjMtMDYtMDYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T20:13:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Cryptoverse: Listless bitcoin seeks summer spark - Reuters",
+      "description": "Cryptoverse: Listless bitcoin seeks summer spark  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY3J5cHRvdmVyc2UtbGlzdGxlc3MtYml0Y29pbi1zZWVrcy1zdW1tZXItc3BhcmstMjAyMy0wNi0wNi_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T05:17:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Bitcoin steadies above $25000 as Binance SEC lawsuit rattles ... - Reuters",
+      "description": "Bitcoin steadies above $25000 as Binance SEC lawsuit rattles ...  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYml0Y29pbi1zdGVhZGllcy1hYm92ZS0yNTAwMC1iaW5hbmNlLXNlYy1sYXdzdWl0LXJhdHRsZXMtaW52ZXN0b3JzLTIwMjMtMDYtMDYv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-06T05:28:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Binance Australia customers seen selling bitcoin at a discount - Reuters",
+      "description": "Binance Australia customers seen selling bitcoin at a discount  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYmluYW5jZS1hdXN0cmFsaWEtY3VzdG9tZXJzLXNlZW4tc2VsbGluZy1iaXRjb2luLWRpc2NvdW50LXJpdmFsLWV4Y2hhbmdlcy0yMDIzLTA1LTMwL9IBAA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-30T09:25:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Cryptoverse: Busy bitcoin births new breed of crypto - Reuters",
+      "description": "Cryptoverse: Busy bitcoin births new breed of crypto  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvY3J5cHRvdmVyc2UtYnVzeS1iaXRjb2luLWJpcnRocy1uZXctYnJlZWQtY3J5cHRvLTIwMjMtMDUtMjMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-05-23T05:12:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Binance has not sold either bitcoin or Binance Coin, CEO says - Reuters",
+      "description": "Binance has not sold either bitcoin or Binance Coin, CEO says  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYmluYW5jZS1oYXMtbm90LXNvbGQtZWl0aGVyLWJpdGNvaW4tb3ItYmluYW5jZS1jb2luLWNlby1zYXlzLTIwMjMtMDYtMTMv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-13T22:15:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "El Salvador partnership to build $1 billion bitcoin mining farm - Reuters",
+      "description": "El Salvador partnership to build $1 billion bitcoin mining farm  Reuters",
+      "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvZWwtc2FsdmFkb3ItcGFydG5lcnNoaXAtYnVpbGQtMS1iaWxsaW9uLWJpdGNvaW4tbWluaW5nLWZhcm0tMjAyMy0wNi0wNS_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+      "urlToImage": null,
+      "publishedAt": "2023-06-05T18:07:00Z",
+      "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jma@insider.com (Jason Ma)",
+      "title": "Bitcoin gets vote of confidence as a long-term store of value as Tether says it will buy more of the crypto to back its stablecoin",
+      "description": "Tether said that starting this month it will regularly allocate up to 15% of its net realized operating profits toward buying bitcoin.",
+      "url": "https://markets.businessinsider.com/news/currencies/bitcoin-long-term-value-tether-btc-purchases-usdt-stablecoin-reserves-2023-5",
+      "urlToImage": "https://i.insider.com/646507e00d92400018e6d690?width=1200&format=jpeg",
+      "publishedAt": "2023-05-17T17:12:42Z",
+      "content": "Bitcoin got a vote of confidence as a long-term store of value after Tether said Wednesday it will buy more of the crypto to back its stablecoin.\r\nThe issuer of USDT said it will allocate up to 15% o… [+1324 chars]"
+    }
+  ]
+}
