@@ -1,11 +1,11 @@
-import './news.css';
+import './newsList.css';
 
 import { createElement } from '@/utils';
 
-import { newsItem } from '../components/newsItem';
 import { newsStore } from '../stores/newsStore';
+import { newsItem } from './newsItem';
 
-export const news = () => {
+export const newsList = () => {
   const rootElement = createElement('div', {
     className: 'news',
   });
@@ -33,6 +33,8 @@ export const news = () => {
   newsStore.subscribe('features-news', {
     update: () => render(),
   });
+
+  newsStore.loadAll();
 
   return render();
 };

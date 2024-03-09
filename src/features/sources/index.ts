@@ -1,2 +1,2 @@
-export { sources } from './components/sources';
+export { sources } from './routes/sources';
 export { sourceStore } from './stores/sourceStore';

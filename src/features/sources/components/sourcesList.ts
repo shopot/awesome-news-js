@@ -5,7 +5,7 @@ import { sourcesItem } from '../components/sourceItem';
 import { sourceStore } from '../stores/sourceStore';
 import styles from './sources.module.css';
 
-export const sources = () => {
+export const sourcesList = () => {
   const rootElement = createElement('div', {
     className: styles.sources,
   });
