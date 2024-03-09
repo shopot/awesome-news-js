@@ -34,7 +34,5 @@ export const newsList = () => {
     update: () => render(),
   });
 
-  newsStore.loadAll();
-
   return render();
 };
