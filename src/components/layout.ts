@@ -1,10 +1,10 @@
 import { footer } from './footer';
 import { header } from './header';
 
-export const layout = (slotContent: HTMLElement): HTMLElement => {
+export const layout = (content: () => HTMLElement): HTMLElement => {
   const fragment = document.createDocumentFragment();
 
-  fragment.append(header(), slotContent, footer());
+  fragment.append(header(), content(), footer());
 
   return fragment as unknown as HTMLElement;
 };

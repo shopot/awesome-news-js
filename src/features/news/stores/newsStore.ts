@@ -1,8 +1,8 @@
 import { Store } from '@/stores';
 
-import { loadAllNews } from '../api/loadAllNews';
-import { loadNews } from '../api/loadNews';
-import { NewsDto, NewsState } from '../types';
+import { fetchAllNews } from '../api/fetchAllNews.ts';
+import { fetchNews } from '../api/fetchNews.ts';
+import { NewsResponseDto, NewsState } from '../types';
 
 const initialState: NewsState = {
   totalResults: 0,
@@ -15,7 +15,7 @@ class NewsStore extends Store<NewsState> {
   }
 
   async load(sourceId: string) {
-    const { status, articles, totalResults } = (await loadNews(sourceId)) as NewsDto;
+    const { status, articles, totalResults } = (await fetchNews(sourceId)) as NewsResponseDto;
 
     if (status === 'ok') {
       this.setState({
@@ -26,7 +26,7 @@ class NewsStore extends Store<NewsState> {
   }
 
   async loadAll() {
-    const { status, articles, totalResults } = (await loadAllNews()) as NewsDto;
+    const { status, articles, totalResults } = (await fetchAllNews()) as NewsResponseDto;
 
     if (status === 'ok') {
       this.setState({

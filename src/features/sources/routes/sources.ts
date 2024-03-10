@@ -6,11 +6,11 @@ import { sourcesList } from '../components/sourcesList';
 import { sourceStore } from '../stores/sourceStore';
 
 export const sources = () => {
-  // Load data
+  // Load sources
   void sourceStore.load();
+
+  // Load news
   void newsStore.loadAll();
 
-  const content = createElement('main', {}, [sourcesList(), newsList()]);
-
-  return layout(content);
+  return layout(() => createElement('main', {}, [sourcesList(), newsList()]));
 };

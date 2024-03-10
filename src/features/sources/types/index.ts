@@ -8,7 +8,7 @@ export type Source = {
   country: string;
 };
 
-export type SourcesDto = {
+export type SourcesResponseDto = {
   status: string;
   sources: Source[];
 };

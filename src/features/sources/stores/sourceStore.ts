@@ -1,7 +1,7 @@
 import { Store } from '@/stores';
 
-import { loadSources } from '../api/loadSources';
-import { SourcesDto, SourceState } from '../types';
+import { fetchSources } from '../api/fetchSources.ts';
+import { SourcesResponseDto, SourceState } from '../types';
 
 const initialState: SourceState = {
   sources: [],
@@ -13,7 +13,7 @@ class SourceStore extends Store<SourceState> {
   }
 
   async load() {
-    const { status, sources } = (await loadSources()) as SourcesDto;
+    const { status, sources } = (await fetchSources()) as SourcesResponseDto;
 
     if (status === 'ok') {
       this.setState({

@@ -1,13 +1,13 @@
 import fakeData from '../data/fake-data.json';
 
-export const loadAllNews = async () => {
+export const fetchSources = async () => {
+  // Example with a fake data
   return new Promise((resolve) => {
     setTimeout(() => {
-      const articles = fakeData.articles;
+      const sources = fakeData.sources;
 
       resolve({
-        articles,
-        totalResults: articles.length,
+        sources,
         status: 'ok',
       });
     }, 1000);

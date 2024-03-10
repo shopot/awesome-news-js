@@ -12,7 +12,7 @@ export type News = {
   content: string;
 };
 
-export type NewsDto = {
+export type NewsResponseDto = {
   status: string;
   totalResults: number;
   articles: News[];
