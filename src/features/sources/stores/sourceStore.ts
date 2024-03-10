@@ -3,10 +3,6 @@ import { Store } from '@/stores';
 import { fetchSources } from '../api/fetchSources.ts';
 import { SourcesResponseDto, SourceState } from '../types';
 
-const initialState: SourceState = {
-  sources: [],
-};
-
 class SourceStore extends Store<SourceState> {
   constructor(initialState: SourceState) {
     super(initialState);
@@ -23,4 +19,6 @@ class SourceStore extends Store<SourceState> {
   }
 }
 
-export const sourceStore = new SourceStore(initialState);
+export const sourceStore = new SourceStore({
+  sources: [],
+});

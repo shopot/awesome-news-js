@@ -4,11 +4,6 @@ import { fetchAllNews } from '../api/fetchAllNews.ts';
 import { fetchNews } from '../api/fetchNews.ts';
 import { NewsResponseDto, NewsState } from '../types';
 
-const initialState: NewsState = {
-  totalResults: 0,
-  articles: [],
-};
-
 class NewsStore extends Store<NewsState> {
   constructor(initialState: NewsState) {
     super(initialState);
@@ -37,4 +32,7 @@ class NewsStore extends Store<NewsState> {
   }
 }
 
-export const newsStore = new NewsStore(initialState);
+export const newsStore = new NewsStore({
+  totalResults: 0,
+  articles: [],
+});
