@@ -7,8 +7,9 @@ export const footer = (): HTMLElement => {
     'a',
     {
       href: 'https://newsapi.org',
+      className: styles.copyright,
     },
-    'NewsAPI'
+    '2024 - NewsAPI'
   );
 
   const render = (): HTMLElement => {
