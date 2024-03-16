@@ -7,6 +7,8 @@ git clone https://github.com/shopot/awesome-news-js.git
 
 cd awesome-news-js
 
+git checkout fsd
+
 npm install
 ```
 ## Running the app
