@@ -1,3 +1,5 @@
+# News-js example app 🍰 Feature-Sliced Design
+
 ## Installation
 
 ```shell
