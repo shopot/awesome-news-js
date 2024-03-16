@@ -5,10 +5,10 @@ git clone https://github.com/shopot/awesome-news-js.git
 
 cd awesome-news-js
 
-yarn install
+npm install
 ```
 ## Running the app
 
 ```shell
-yarn dev
+npm run dev
 ```
