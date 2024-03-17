@@ -1,4 +1,4 @@
-# Example app - 🍰 Feature-Sliced Design
+# News-js Example 🍰 Feature-Sliced Design
 
 ## Структура проекта
 
