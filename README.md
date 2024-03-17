@@ -10,6 +10,10 @@ https://feature-sliced.design/ru/
 
 ## Структура проекта
 
+🍰 Feature-Sliced Design
+
+![fsd](D:\projects\RSSchool\presentations\frontend\awesome-news-js\public\img\fsd-schema.png)
+
 ### Layers - Слои
 
 Слои - это первый уровень организационной иерархии в Feature-Sliced Design.
