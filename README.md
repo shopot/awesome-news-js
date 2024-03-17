@@ -1,10 +1,14 @@
-# News-js Example 🍰 Feature-Sliced Design
+# News-JS Example 🍰 Feature-Sliced Design
 
-## Структура проекта
+## Описание
 
 Архитектурная методология для фронтенд проектов
 
 https://feature-sliced.design/ru/
+
+Минимальный пример на JavaScript без использования фреймворков и библиотек, на примере проекта [Migration: News API to TS](https://github.com/rolling-scopes-school/news-JS/) из RS School.
+
+## Структура проекта
 
 ### Layers - Слои
 
