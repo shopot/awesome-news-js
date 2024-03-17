@@ -12,7 +12,7 @@ https://feature-sliced.design/ru/
 
 🍰 Feature-Sliced Design
 
-![fsd](D:\projects\RSSchool\presentations\frontend\awesome-news-js\public\img\fsd-schema.png)
+![fsd](public\img\fsd-schema.png)
 
 ### Layers - Слои
 
