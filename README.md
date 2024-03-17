@@ -10,7 +10,7 @@ https://feature-sliced.design/ru/
 
 ## Структура проекта
 
-🍰 Feature-Sliced Design
+🍰 Feature-Sliced Design: общая схема
 
 ![fsd](public/img/fsd-schema.png)
 
